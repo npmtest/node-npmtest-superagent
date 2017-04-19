@@ -1,6 +1,6 @@
 # npmtest-superagent
 
-#### test coverage for  [superagent (v3.5.2)](https://github.com/visionmedia/superagent#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-superagent.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-superagent) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-superagent.svg)](https://travis-ci.org/npmtest/node-npmtest-superagent)
+#### basic test coverage for  [superagent (v3.5.2)](https://github.com/visionmedia/superagent#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-superagent.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-superagent) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-superagent.svg)](https://travis-ci.org/npmtest/node-npmtest-superagent)
 
 #### elegant & feature rich browser / node HTTP with a fluent API
 
